@@ -15,10 +15,10 @@
 
 ### About me
 
-I'm a third-year CS undergrad who likes building things end-to-end — from the database up to the UI a user actually touches.
+I'm a final year CS undergrad who likes building things end-to-end — from the database up to the UI a user actually touches.
 
-- 🔭 Currently building **SpendSmart AI**, an AI-powered resume/SaaS tool using the Claude API
-- 🌱 Exploring real-time systems — built a multiplayer trivia app and a chat app with collaborative drawing
+- 🔭 Recently built **SpendSmart AI**, an AI-powered resume/SaaS tool integrating the Gemini API
+- 🌱 Exploring real-time systems — built a multiplayer trivia app and building a chat app with collaborative drawing
 - 🎯 Targeting frontend/full-stack web, backend/API, and mobile (Flutter) roles
 - 📍 Based in India · Open to internships and collaboration
 
