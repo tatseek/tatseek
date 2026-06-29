@@ -60,14 +60,14 @@ I'm a final year CS undergrad who likes building things end-to-end — from the 
 ### Projects
 
 **SpendSmart AI**
-> AI-powered resume/SaaS tool built with the Claude API
-- Resume analysis and generation features powered by Claude
-- **Stack:** Next.js · Claude API
+> AI-powered resume/SaaS tool built with the Gemini API
+- Resume analysis and generation features powered by Gemini
+- **Stack:** Next.js · Gemini API
 
 **FlackCard Frenzy**
 > Real-time multiplayer trivia app
 - Live multiplayer game sessions with real-time score updates
-- **Stack:** Next.js (originally) → rebuilt in Flutter
+- **Stack:** Next.js (originally) , rebuilt in Flutter
 
 **ForkMap**
 > Location-based restaurant finder
