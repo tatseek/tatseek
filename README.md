@@ -105,12 +105,13 @@ I'm a final year CS undergrad who likes building things end-to-end — from the 
 
 ---
 
-### GitHub stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tatseek&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatseek&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=tatseek&theme=tokyonight&hide_border=true" />
 </p>
+
+
 
 ---
 
